@@ -1,0 +1,31 @@
+                ------------------------------------
+                 PYTHON PROGRAMMING COURSE CONTENT
+                ------------------------------------
+00. Dev Setup
+    Installing IDE/Editor
+    Installing Python and local setup
+    Github access, creating project
+
+01.Introduction
+    Importance of Python
+    Two versions of Python (2.x & 3.x)
+    built-in functions
+    Comment Operator
+    keywords and Identifiers
+    Line continuation and statement seperator operators
+
+02.Basics
+    Arithmetic operations
+        +,-,/,//,%, *
+        divmod() functionsPractical Problem Solving
+        working with complex numbers
+        abs() functionsOperator precedence in Arithmetic operations
+    String operations
+        Usage of single, double and triple quotes
+        len() functionsIndexing and Slicing Strings
+        string attributes,
+        String formatting: old and new styles, f-Strings
+        unicode Strings
+    Usage of help
+    Usage of pydoc
+    
