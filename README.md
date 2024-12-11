@@ -157,14 +157,14 @@ To create new branch:
         range() function
         Conditional Operations
 
-[class10 4nd Dec 2024 ](zoomrecordinglink)
+[class10 4th Dec 2024 ](zoomrecordinglink)
 
         Structural Pattern Matching
         Loops: for & while, break, continue, pass, sys.exit
     # Assignment: Try these break, continue, pass, on a for loop example
 
 
-[class12 2nd Dec 2024 ](zoomrecordinglink)
+[class12 6th Dec 2024 ](zoomrecordinglink)
 
         Walrus Operator
 
@@ -178,11 +178,24 @@ To create new branch:
         exception Groups
         warnings
 
-## Next  class
+[class13 9th Dec 2024 ](zoomrecordinglink)
 
     05.Debugging
         Importance of logical errors
         Debugging with pydevd
-        Debugging with pdb, ipdb, pudb
+        Debugging with pdb, ipdb
         breakpoint() function
         PYTHONBREAKPOINT environment variable usage
+        post analyses of executed script
+
+## Next  class
+
+    06.Collections
+        Lists
+        Tuples & namedtuples
+        Sets
+        Dictionaries
+            zip() function
+            workaround for switch case
+        Comprehensions
+        Working with Iterables - sum(), max(), min()
