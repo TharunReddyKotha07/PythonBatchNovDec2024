@@ -201,7 +201,7 @@ To create new branch:
         Sets
             attributes, operations
 
-## Next  class
+[class16 13th Dec 2024 ](zoomrecordinglink)
 
         fronzensets
         Dictionaries
@@ -209,6 +209,9 @@ To create new branch:
             workaround for switch case
         Comprehensions
         Working with Iterables - sum(), max(), min()
+
+
+## Next  class
 
     07.Functions
         Functions with & without arguments, keyword arguments
