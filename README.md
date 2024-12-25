@@ -231,7 +231,36 @@ To create new branch:
         Higher order functions: map(), filter(), functool.reduce()
         Recursions and recursions limit
 
-## Next  class
+[class19 18th Dec 2024 ](zoomrecordinglink)
 
         inner functions
         closures
+
+    08.Decorator Design Pattern
+        Necessity
+        function Decorator
+        Practical Examples
+        syntactic sugar for decorators
+        multiple decorators on same function
+        decorators with arguments
+        functools - wrap, lru_cache
+        class decorator
+
+
+## Next  class
+
+
+    09.Iterables, Iterators, Generators and co-routines
+        Iterables
+            different ways of extracting values from iterables
+        Iterators
+            iter() protocol
+            itertools module
+        Generators
+            yield vs return
+            function vs Generator
+            Generator pipelining
+            Generator Expression
+        Coroutine
+            Generator vs Coroutine
+            coroutine pipelining
