@@ -309,15 +309,18 @@ To create new branch:
         Basic Modules
             - math, sys, argparse
             
-## Next  class
+[class23 24th Dec 2024 ](zoomrecordinglink)
             
-            os, shutil, pathlib, subprocess, getpass
+            os, shutil, pathlib, 
+            
+## Next  class
+           
+        subprocess, getpass
         time related
             - time, datetime, pytz, timeit, calendar
         concurrency
             - Multiprocessing, Multithreading
         others
             - random, collections, atexit, contextlib, base64, turtle, tqdm
-
         create user-defined module
         creating user-defined package
