@@ -335,13 +335,14 @@ To create new branch:
     11.File Operations
         flat files
 
-## Next  class
-
+[class26 30th Dec 2024 ](zoomrecordinglink)
         Non-flat files
             pickle
             shelve
             xml
             csv
+
+## Next  class
             dat
             xls/xlsx
             json
