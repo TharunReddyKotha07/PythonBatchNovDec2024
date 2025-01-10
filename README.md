@@ -380,14 +380,31 @@ To create new branch:
 
 [class28 6th Jan 2025 ](zoomrecordinglink)
 
-        12.Logging
-            Simple logging
-            configuring log file
-            formatting logs and adding timestamp
-            working with file handler and stream hanlder
-            configuring multiple handlers
-            color logging
-            Rotating logger
+    12.Logging
+        Simple logging
+        configuring log file
+        formatting logs and adding timestamp
+        working with file handler and stream hanlder
+        configuring multiple handlers
+        color logging
+        Rotating logger
+
+[class29 08th Jan 2024 ](zoomrecordinglink)
+
+    13. Regular Expressions
+        re module
+        compiling regex objects
+        match & search
+        find & finditer
+        regex Flags
+        Greedy & Non-Greedy patterns
+        findall & finditer
+        findall & finditer
+        sub and subn
+        regex Flags
+        groups and groupdicts
+        Pearl-style regexes
+        Realworld Problem (log analyses, email Validation, etc)
 
 ## Next  class
 
@@ -423,20 +440,6 @@ To create new branch:
         typing
         Doctest
         unittest
-
-    15. Regular Expressions
-        re module
-        compiling regex objects
-        match & search
-        find & finditer
-        regex Flags
-        Greedy & Non-Greedy patterns
-        findall & finditer
-        sub and subn
-        regex Flags
-        groups and groupdicts
-        Pearl-style regexes
-        Realworld Problem (log analyses, email Validation, etc)
 
     16. Databases
         db files - sqlite3
