@@ -406,9 +406,31 @@ To create new branch:
         Pearl-style regexes
         Realworld Problem (log analyses, email Validation, etc)
 
+[class30 10th Jan 2024 ](zoomrecordinglink)
+
+
+    14. OOP
+        Importance of OOP
+        Instantiation and managing attributes
+        constructor and Importance of self
+        instance and class variables
+        Encapsulation
+
 ## Next  class
 
-    xls/xlsx
+        MRO, Single and multiple inheritance, composition
+        Method Overwriting, Operator Overloading
+        instance, class and static methods
+        property decorator
+        Dunder(magic) methods
+        reprlib module
+        creating context manager class
+        Dataclasses
+        Abstract Classes
+
+
+        Structured Files
+            xls/xlsx
             json
             yaml
             parquet
@@ -420,21 +442,6 @@ To create new branch:
         config files : .ini, .cfg
         pyw files
 
-    13. OOP
-        Importance of OOP
-        Instantiation and managing attributes
-        constructor and Importance of self
-        instance and class variables
-        Encapsulation
-        MRO, Single and multiple inheritance, composition
-        Method Overwriting, Operator Overloading
-        instance, class and static methods
-        property decorator
-        Dunder(magic) methods
-        reprlib module
-        creating context manager class
-        Dataclasses
-        Abstract Classes
 
     14. Code Quality
         typing
