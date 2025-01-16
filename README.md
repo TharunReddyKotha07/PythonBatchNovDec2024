@@ -389,7 +389,7 @@ To create new branch:
         color logging
         Rotating logger
 
-[class29 08th Jan 2024 ](zoomrecordinglink)
+[class29 08th Jan 2025 ](zoomrecordinglink)
 
     13. Regular Expressions
         re module
@@ -406,7 +406,7 @@ To create new branch:
         Pearl-style regexes
         Realworld Problem (log analyses, email Validation, etc)
 
-[class30 10th Jan 2024 ](zoomrecordinglink)
+[class30 10th Jan 2025 ](zoomrecordinglink)
 
 
     14. OOP
@@ -416,7 +416,7 @@ To create new branch:
         instance and class variables
         Encapsulation
 
-## Next  class
+[class31 13th Jan 2025 ](zoomrecordinglink)
 
         MRO, Single and multiple inheritance, composition
         Method Overwriting, Operator Overloading
@@ -427,6 +427,14 @@ To create new branch:
         creating context manager class
         Dataclasses
         Abstract Classes
+
+## Next  class
+
+
+    14. Code Quality
+        typing
+        Doctest
+        unittest
 
 
         Structured Files
@@ -442,11 +450,6 @@ To create new branch:
         config files : .ini, .cfg
         pyw files
 
-
-    14. Code Quality
-        typing
-        Doctest
-        unittest
 
     16. Databases
         db files - sqlite3
