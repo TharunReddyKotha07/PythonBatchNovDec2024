@@ -428,27 +428,22 @@ To create new branch:
         Dataclasses
         Abstract Classes
 
+[class32 15th Jan 2025 ](zoomrecordinglink)
+
+
+        Dataclasses
+        Abstract Classes
+        
+    14. Code Quality
+        pylint
+        Autopep8
+        typing
+
+
 ## Next  class
 
-
-    14. Code Quality
-        typing
         Doctest
         unittest
-
-
-        Structured Files
-            xls/xlsx
-            json
-            yaml
-            parquet
-            avro
-        Image files
-            displaying, creating and editing images
-        zipping files: .zip, .tar
-        pdf files
-        config files : .ini, .cfg
-        pyw files
 
 
     16. Databases
