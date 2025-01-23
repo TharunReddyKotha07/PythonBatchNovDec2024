@@ -440,12 +440,25 @@ To create new branch:
         typing
 
 
-[class33 17th Jan 2024 ](zoomrecordinglink)
+[class33 17th Jan 2025 ](zoomrecordinglink)
 
         Doctest
         unittest
         Behave
         property-Based testing
+
+[class34 21st Jan 2025 ](zoomrecordinglink)
+
+        unittest
+        pytest
+
+    AWS Cloud
+
+        AWS Development setup 
+        AWS CLI setup and usage
+        AWS IAM 
+            creation of Users, Groups, and assiging policies    
+
 
 ## Next  class
 
